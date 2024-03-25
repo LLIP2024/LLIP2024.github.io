@@ -4,28 +4,9 @@
   
     
     <entry>
-      <title>实验平台</title>
-      <link href="/2024/03/16/zsB/"/>
-      <url>/2024/03/16/zsB/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 招生 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>招生要求</title>
-      <link href="/2024/03/16/zsA/"/>
-      <url>/2024/03/16/zsA/</url>
+      <link href="/2024/03/24/zsA/"/>
+      <url>/2024/03/24/zsA/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -42,16 +23,16 @@
     
     
     <entry>
-      <title>学术</title>
-      <link href="/2024/03/16/whF/"/>
-      <url>/2024/03/16/whF/</url>
+      <title>实验平台</title>
+      <link href="/2024/03/24/zsB/"/>
+      <url>/2024/03/24/zsB/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 文化 </category>
+          <category> 招生 </category>
           
       </categories>
       
@@ -61,28 +42,9 @@
     
     
     <entry>
-      <title>获奖</title>
-      <link href="/2024/03/16/whE/"/>
-      <url>/2024/03/16/whE/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 文化 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>毕业</title>
-      <link href="/2024/03/16/whD/"/>
-      <url>/2024/03/16/whD/</url>
+      <title>聚餐</title>
+      <link href="/2024/03/24/whB/"/>
+      <url>/2024/03/24/whB/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -100,8 +62,8 @@
     
     <entry>
       <title>日常</title>
-      <link href="/2024/03/16/whC/"/>
-      <url>/2024/03/16/whC/</url>
+      <link href="/2024/03/24/whC/"/>
+      <url>/2024/03/24/whC/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -118,9 +80,9 @@
     
     
     <entry>
-      <title>聚餐</title>
-      <link href="/2024/03/16/whB/"/>
-      <url>/2024/03/16/whB/</url>
+      <title>获奖</title>
+      <link href="/2024/03/24/whE/"/>
+      <url>/2024/03/24/whE/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -137,9 +99,9 @@
     
     
     <entry>
-      <title>团建</title>
-      <link href="/2024/03/16/whA/"/>
-      <url>/2024/03/16/whA/</url>
+      <title>学术</title>
+      <link href="/2024/03/24/whF/"/>
+      <url>/2024/03/24/whF/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -156,168 +118,16 @@
     
     
     <entry>
-      <title>新闻一</title>
-      <link href="/2024/03/16/xwA/"/>
-      <url>/2024/03/16/xwA/</url>
+      <title>毕业</title>
+      <link href="/2024/03/24/whD/"/>
+      <url>/2024/03/24/whD/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 新闻 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>毕业生</title>
-      <link href="/2024/03/16/cylbE/"/>
-      <url>/2024/03/16/cylbE/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 成员 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>硕士研究生</title>
-      <link href="/2024/03/16/cylbD/"/>
-      <url>/2024/03/16/cylbD/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 成员 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>博士研究生</title>
-      <link href="/2024/03/16/cylbC/"/>
-      <url>/2024/03/16/cylbC/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 成员 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>合作老师</title>
-      <link href="/2024/03/16/cylbB/"/>
-      <url>/2024/03/16/cylbB/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 成员 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>指导老师</title>
-      <link href="/2024/03/16/cylbA/"/>
-      <url>/2024/03/16/cylbA/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 成员 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>代码</title>
-      <link href="/2024/03/16/sjdmB/"/>
-      <url>/2024/03/16/sjdmB/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 数据代码 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>数据</title>
-      <link href="/2024/03/16/sjdmA/"/>
-      <url>/2024/03/16/sjdmA/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 数据代码 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>2024年</title>
-      <link href="/2024/03/16/lwfbA/"/>
-      <url>/2024/03/16/lwfbA/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 论文发表 </category>
+          <category> 文化 </category>
           
       </categories>
       
@@ -328,8 +138,8 @@
     
     <entry>
       <title>获奖情况</title>
-      <link href="/2024/03/16/yjfxZ/"/>
-      <url>/2024/03/16/yjfxZ/</url>
+      <link href="/2024/03/24/yjfxZ/"/>
+      <url>/2024/03/24/yjfxZ/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -347,8 +157,8 @@
     
     <entry>
       <title>研究方向一</title>
-      <link href="/2023/11/29/yjfxA/"/>
-      <url>/2023/11/29/yjfxA/</url>
+      <link href="/2024/03/24/yjfxA/"/>
+      <url>/2024/03/24/yjfxA/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -356,6 +166,196 @@
       <categories>
           
           <category> 研究 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新闻一</title>
+      <link href="/2024/03/24/xwA/"/>
+      <url>/2024/03/24/xwA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 新闻 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博士研究生</title>
+      <link href="/2024/03/24/cylbC/"/>
+      <url>/2024/03/24/cylbC/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 成员 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>合作老师</title>
+      <link href="/2024/03/24/cylbB/"/>
+      <url>/2024/03/24/cylbB/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 成员 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>毕业生</title>
+      <link href="/2024/03/24/cylbE/"/>
+      <url>/2024/03/24/cylbE/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 成员 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>硕士研究生</title>
+      <link href="/2024/03/24/cylbD/"/>
+      <url>/2024/03/24/cylbD/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 成员 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2024年</title>
+      <link href="/2024/03/24/lwfbA/"/>
+      <url>/2024/03/24/lwfbA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 论文发表 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据</title>
+      <link href="/2024/03/24/sjdmA/"/>
+      <url>/2024/03/24/sjdmA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据代码 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>代码</title>
+      <link href="/2024/03/24/sjdmB/"/>
+      <url>/2024/03/24/sjdmB/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据代码 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>团建</title>
+      <link href="/2024/03/24/whA/"/>
+      <url>/2024/03/24/whA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 文化 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>指导老师</title>
+      <link href="/2024/03/24/cylbA/"/>
+      <url>/2024/03/24/cylbA/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 成员 </category>
           
       </categories>
       
