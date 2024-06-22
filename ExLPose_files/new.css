@@ -1,0 +1,36 @@
+.title-container {
+  position: relative;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  padding: 0 250px;
+  background-color: #FFFFFF;
+  z-index: 1;
+}
+h2::before, h2::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  height: 5px;
+  background: linear-gradient(to right, #00BFFF, #FFFFFF);
+  transform: translateY(-50%);
+  z-index: -1;
+}
+h2::before {
+  left: 0;
+  background: linear-gradient(to right, #00BFFF, #FFFFFF);
+  z-index: -2;
+}
+h2::after {
+  right: 0;
+  background: linear-gradient(to left, #00BFFF, #FFFFFF);
+  z-index: -2;
+}
+
+
+
+
+#00BFFF

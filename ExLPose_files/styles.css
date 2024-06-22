@@ -7960,6 +7960,12 @@ button.bg-dark:focus {
     margin-left: 0 !important;
   }
 
+.my-subtitle {
+  color: #1E90FF; /* 浅蓝色 */
+  text-align: left; /* 左对齐 */
+  font-weight: bold; /* 加粗 */
+  }
+
   .m-sm-1 {
     margin: 0.25rem !important;
   }
@@ -9803,6 +9809,10 @@ button.bg-dark:focus {
 
 .text-white {
   color: #fff !important;
+}
+
+.text-yellow {
+  color: #ffc107 !important;
 }
 
 .text-primary {
